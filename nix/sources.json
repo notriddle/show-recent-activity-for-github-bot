@@ -1,0 +1,38 @@
+{
+    "crate2nix": {
+        "branch": "master",
+        "description": "nix build file generator for rust crates",
+        "homepage": "",
+        "owner": "kolloch",
+        "repo": "crate2nix",
+        "rev": "aac91ade3060f78c27c0e9f9bbaae738db72edc5",
+        "sha256": "01jgnnd0dzwyp76sd4r21i3a5d1jc2gihindal2xgzwwyfi9y76k",
+        "type": "tarball",
+        "url": "https://github.com/kolloch/crate2nix/archive/aac91ade3060f78c27c0e9f9bbaae738db72edc5.tar.gz",
+        "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
+    },
+    "niv": {
+        "branch": "master",
+        "description": "Easy dependency management for Nix projects",
+        "homepage": "https://github.com/nmattia/niv",
+        "owner": "nmattia",
+        "repo": "niv",
+        "rev": "f73bf8d584148677b01859677a63191c31911eae",
+        "sha256": "0jlmrx633jvqrqlyhlzpvdrnim128gc81q5psz2lpp2af8p8q9qs",
+        "type": "tarball",
+        "url": "https://github.com/nmattia/niv/archive/f73bf8d584148677b01859677a63191c31911eae.tar.gz",
+        "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
+    },
+    "nixpkgs": {
+        "branch": "master",
+        "description": "A read-only mirror of NixOS/nixpkgs tracking the released channels. Send issues and PRs to",
+        "homepage": "https://github.com/NixOS/nixpkgs",
+        "owner": "NixOS",
+        "repo": "nixpkgs",
+        "rev": "810f240c2a2bc9962764b507d8c1bb67a183fbb8",
+        "sha256": "16v3ygfbyp3xf2ydr7b0gpglc3x3ibb968l5n9s990qlib4ricdp",
+        "type": "tarball",
+        "url": "https://github.com/NixOS/nixpkgs/archive/810f240c2a2bc9962764b507d8c1bb67a183fbb8.tar.gz",
+        "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
+    }
+}
